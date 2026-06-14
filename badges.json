@@ -502,8 +502,8 @@
         },
         {
             "borderColor": "#FFFF9800",
-            "groupId": "gv",
-            "id": "video-tech",
+            "groupId": "video-tech",
+            "id": "3D",
             "imageURL": "https://raw.githubusercontent.com/vowl313/NardBadges/refs/heads/main/3d.png",
             "isEnabled": true,
             "name": "3D",

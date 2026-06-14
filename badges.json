@@ -501,6 +501,19 @@
             "type": "filter"
         },
         {
+            "borderColor": "#FFFF9800",
+            "groupId": "gv",
+            "id": "video-tech",
+            "imageURL": "https://raw.githubusercontent.com/vowl313/NardBadges/refs/heads/main/3d.png",
+            "isEnabled": true,
+            "name": "3D",
+            "pattern": "(?i)\\b(?:3d|sbs|half[-_. ]?sbs|hsbs|ou|over[-_. ]?under)\\b",
+            "tagColor": "#00000000",
+            "tagStyle": "filled and bordered",
+            "textColor": "#FFFFFF",
+            "type": "filter"
+        },
+        {
             "id": "hevc",
             "groupId": "video-codec",
             "name": "HEVC",

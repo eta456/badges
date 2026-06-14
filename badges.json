@@ -671,7 +671,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "",
+      "groupId": "streaming",
       "id": "s-nflx",
       "imageURL": "https://raw.githubusercontent.com/djgenesis/badges/refs/heads/main/badges/NETFLIX.png",
       "isEnabled": true,
@@ -684,7 +684,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "",
+      "groupId": "streaming",
       "id": "s-amzn",
       "imageURL": "https://raw.githubusercontent.com/djgenesis/badges/refs/heads/main/badges/PRIME-VIDEO.png",
       "isEnabled": true,
@@ -697,7 +697,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "",
+      "groupId": "streaming",
       "id": "s-atvp",
       "imageURL": "https://raw.githubusercontent.com/djgenesis/badges/refs/heads/main/badges/appletv.png",
       "isEnabled": true,
@@ -710,7 +710,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "",
+      "groupId": "streaming",
       "id": "s-dsnp",
       "imageURL": "https://raw.githubusercontent.com/je19921/cardgenerator.github.io/refs/heads/main/d%2B.png",
       "isEnabled": true,
@@ -723,7 +723,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "gs",
+      "groupId": "streaming",
       "id": "s-hmax",
       "imageURL": "https://raw.githubusercontent.com/je19921/cardgenerator.github.io/refs/heads/main/hmax.png",
       "isEnabled": true,
@@ -736,7 +736,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "",
+      "groupId": "streaming",
       "id": "s-hulu",
       "imageURL": "https://raw.githubusercontent.com/djgenesis/badges/refs/heads/main/badges/hulu.png",
       "isEnabled": true,
@@ -749,7 +749,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "",
+      "groupId": "streaming",
       "id": "s-pcok",
       "imageURL": "https://raw.githubusercontent.com/djgenesis/badges/refs/heads/main/badges/peacock.png",
       "isEnabled": true,
@@ -762,7 +762,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "",
+      "groupId": "streaming",
       "id": "s-pamp",
       "imageURL": "https://raw.githubusercontent.com/djgenesis/badges/refs/heads/main/badges/paramount.png",
       "isEnabled": true,
@@ -775,7 +775,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "gs",
+      "groupId": "streaming",
       "id": "s-crave",
       "imageURL": "https://raw.githubusercontent.com/je19921/cardgenerator.github.io/refs/heads/main/crave.png",
       "isEnabled": true,
@@ -788,7 +788,7 @@
     },
     {
       "borderColor": "#FF858283",
-      "groupId": "",
+      "groupId": "streaming",
       "id": "s-croll",
       "imageURL": "https://raw.githubusercontent.com/djgenesis/badges/refs/heads/main/badges/CRUNCHYROL.png",
       "isEnabled": true,
